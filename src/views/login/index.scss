@@ -1,0 +1,27 @@
+.login {
+  align-items: center;
+  width: 500px;
+  padding: 30px;
+
+  margin: 100px auto;
+  background-color: #12947f;
+}
+.login-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 56px;
+
+  .column {
+    font-size: 16px;
+  }
+  span {
+    font-size: 14px;
+    opacity: 0.6;
+  }
+}
+.login-content {
+  width: 100%;
+  display: block;
+}
